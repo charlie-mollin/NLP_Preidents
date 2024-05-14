@@ -1,0 +1,19 @@
+- Government: 
+	- Topic modeling over time to gather areas, sentiment analysis provides research insight over time. Can do this in context of interepretation of constitution, etc, filter by decades or centuries to gather differing political opinion. Based in outright explicit text in the constitution
+	-  How government mass communication, press releases, briefings, speeches from leaders, (STATE OF THE UNION) over time has changed, contingent on domestic and international conflict — subquestion does domestic or international conflcit affect general sentiment of presidential/ house/ etc. speeches. 
+		
+
+2.13: 
+- Presidential speeches are online. Given sentiment further analysis check changes in political ideology make a prediction on whether republican or democrat based on these speeches. “FDR gave a speech that leaned democrat but he is actually republican” Could extend into aprties changning over time. 
+
+- Topic modeling, choose topics from each party (topic modeling), and assign sentiments based on that
+
+Decent amount of work in poli sci: (Talk with Prof) 
+- Scaling, putting presidents, etc on left right continuum (look into this literature) 
+- Stratifying by decade, administration, party systems as in the kaggle dataset
+- look into historical, poli sci stuff, in terms of what they know in party alignment 
+- Scaling (build a regressor) 
+- Embedding space
+
+2.15: 
+- Next Thursday is presentation day, it is 10 minutes long, each group member should present. Should be created by Tuesday 
